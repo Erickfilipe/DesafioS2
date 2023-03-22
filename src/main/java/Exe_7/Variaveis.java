@@ -41,8 +41,4 @@ public class Variaveis {
         System.out.println("X2 é: " + X2);
     }
 
-    /* sexo sem parar
-    os bonitin tá virando viadinho...
-     */
-
 }
